@@ -1,4 +1,5 @@
 # printsploitv2
+MADE FOR EDUCATIONAL PURPOSES ONLY
 skidded btw. ty norby (norbyv2 on cord) for the inspiration. this is a v2 of printsploit, but much easier to create.
 
 u need the following for this:
