@@ -7,6 +7,7 @@ u need the following for this:
 - Common Sense
 - Latest version of roblox
 - Code editor, (Visual Studio Code)
+- Xcode command line tools, download by running: xcode-select --install
 - Homebrew, only to download capstone, download by running: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 - Capstone, download by running: brew install capstone
 
