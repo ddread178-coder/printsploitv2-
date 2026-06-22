@@ -259,7 +259,7 @@ void printSploit()
 {
     std::this_thread::sleep_for(std::chrono::seconds(13));
     
-    auto printfunction = reinterpret_cast<printdef>(_dyld_get_image_vmaddr_slide(0) + 0x1001c9cf8);
+    auto printfunction = reinterpret_cast<printdef>(_dyld_get_image_vmaddr_slide(0) + 0x1001D2248);
     httpServer(printfunction);
 }
  
